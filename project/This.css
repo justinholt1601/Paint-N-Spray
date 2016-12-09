@@ -1,0 +1,7 @@
+<link rel="stylesheet"
+type="This.css"
+href="index.html">
+div {
+  background: url(car5.jpg);
+  background-size:100px 100px ;
+  background-repeat:no-repeat
